@@ -2,7 +2,6 @@
  * Represents the main character being played by the real-life player interacting with the game.
  */
 import { immerable } from 'immer';
-import { __GLOBAL_REFRESH_FUNC_REF } from '../../App';
 import Fighter from './Fighter';
 import EPlayerActivity from './EPlayerActivity';
 
