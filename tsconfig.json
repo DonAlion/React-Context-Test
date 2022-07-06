@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "target": "es5",
+        "module": "commonjs",
+        "esModuleInterop": true
+    },
+    "include": ["src"],
+    "exclude": ["node_modules", "dist/**/*", "lib"]
+}
+
+// See: https://github.com/mtiller/ts-jest-sample/blob/master/tsconfig.json for detailed comments on possible configuration.
